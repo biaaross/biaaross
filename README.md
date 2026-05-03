@@ -1,49 +1,49 @@
-## Hi there 👋
-# 👋 Merhaba, ben Arda
+# 👋 Hi, I'm Arda
 
-🎯 Yazılım dünyasına adım atan ve **C++ & Python** üzerine yoğunlaşan bir geliştiriciyim.
-🚀 Amacım: Temel konuları derinlemesine öğrenip gerçek projeler geliştirmek.
-
----
-
-## 🧠 Şu Anda Ne Yapıyorum?
-
-* 📌 C++ öğreniyorum (OOP, dosya işlemleri, sistem mantığı)
-* 📌 Python öğreniyorum (otomasyon, veri işleme)
-* 🛠 Küçük projeler geliştirerek kendimi geliştiriyorum
+🎯 I'm a developer at the beginning of my software journey, currently focusing on **C++ & Python**.
+🚀 My goal is to deeply understand core concepts and build real-world projects.
 
 ---
 
-## 💻 Projelerim
+## 🧠 What I'm Currently Doing
+
+* 📌 Learning C++ (OOP, file handling, system design)
+* 📌 Learning Python (automation, data processing)
+* 🛠 Improving myself by building small projects
+
+---
+
+## 💻 Projects
 
 ### 🔹 C++
 
-* Employee Management System
-  → Dosya işlemleri ve veri yönetimi üzerine kurulu bir sistem
+* **Employee Management System**
+  → A system built around file handling and data management
 
-* Time Converter
-  → Saat/dakika dönüşümleri yapan küçük bir araç
+* **Time Converter**
+  → A simple tool for time (hour/minute) conversions
 
 ### 🔹 Python
 
-* Veri İşleme Scripti
-  → Dosya okuyup analiz yapan basit bir araç
+* **Data Processing Script**
+  → A simple tool for reading and analyzing data
 
-* Otomasyon Scripti
-  → Tekrarlayan işlemleri otomatikleştiren küçük uygulama
+* **Automation Script**
+  → A small application that automates repetitive tasks
 
-👉 Daha fazlası için repolarıma göz atabilirsin.
-👉 [Tüm projelerimi görmek için tıkla](https://github.com/biaaross)
-
----
-
-## 🎯 Hedeflerim
-
-* C++'ta ileri seviye (STL, memory management)
-* Python ile veri analizi ve otomasyon
-* Algoritma ve veri yapıları
-* Gerçek dünya projeleri geliştirmek
+👉 Feel free to check out all my repositories:
+👉 [View all my projects](https://github.com/biaaross)
 
 ---
 
-⭐ Profilimi ziyaret ettiğin için teşekkürler!
+## 🎯 Goals
+
+* Achieve advanced level in C++ (STL, memory management)
+* Use Python for data analysis and automation
+* Improve in algorithms and data structures
+* Build real-world projects
+
+---
+
+⭐ Thanks for visiting my profile!
+
